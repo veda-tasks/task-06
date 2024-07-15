@@ -1,2 +1,1 @@
-# task-06
-Setting up Git
+To create a blog
